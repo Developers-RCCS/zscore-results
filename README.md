@@ -1,2 +1,2 @@
 # zscore-results
-A webpage to show zscores of students' results.
+A website to display zscores of students' results in term exams and other exams.
